@@ -80,3 +80,5 @@ build.log
 
 # Local configs
 Local.xcconfig
+config.bat
+node_modules
